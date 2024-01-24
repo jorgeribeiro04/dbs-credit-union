@@ -1,0 +1,5 @@
+CREATE PROCEDURE uspSelectMaxID 
+AS
+BEGIN
+	SELECT MAX(AccountID) FROM tblAccount
+END

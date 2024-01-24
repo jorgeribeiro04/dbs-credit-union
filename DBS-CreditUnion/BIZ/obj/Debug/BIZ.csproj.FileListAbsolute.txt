@@ -1,0 +1,27 @@
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.dll
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.pdb
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.dll
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.pdb
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.dll
+C:\Users\DBS\OneDrive - Dublin Business School (DBS)\Desktop\ObjectOriented_Programming\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.pdb
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.dll
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.pdb
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.dll
+C:\Users\Lenovo\Desktop\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.pdb
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.dll
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\BIZ.pdb
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.dll
+C:\Users\Lenovo\Desktop\JorgeRibeiro10586436\DBS-CreditUnion\DBS-CreditUnion\BIZ\obj\Debug\BIZ.pdb

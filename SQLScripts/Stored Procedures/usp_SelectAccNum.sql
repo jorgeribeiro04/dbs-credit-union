@@ -1,0 +1,6 @@
+CREATE PROCEDURE usp_SelectAccNum
+AS
+BEGIN
+	SELECT * FROM tblAccount
+END
+GO

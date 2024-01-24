@@ -1,0 +1,6 @@
+CREATE PROCEDURE usp_CountAccount
+AS
+BEGIN
+	SELECT COUNT(AccountID) FROM tblAccount
+END
+GO

@@ -1,0 +1,38 @@
+﻿<Window x:Class="DBS_CreditUnion.Transations"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DBS_CreditUnion"
+        mc:Ignorable="d"
+        Title="Transations" Height="450" Width="800">
+    <Grid Background="#FFD1C9B7" Loaded="Grid_Loaded">
+        <Menu Margin="0,0,0,378" Background="#FF76422E" Foreground="White" FontSize="18">
+            <MenuItem Background="#FF76422E" Header="File">
+                <MenuItem Background="#FF76422E" Header="Logout" Click="Logout_Click"/>
+                <MenuItem Background="#FF76422E" Header="Exit" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Account" Background="#FF76422E" VerticalAlignment="Center">
+                <MenuItem Header="New Account" Background="#FF76422E" FontFamily="Corbel" Click="NewAccount_Click"/>
+                <MenuItem Header="Edit Account" Background="#FF76422E" FontFamily="Corbel" Click="EditAccount_Click"/>
+                <MenuItem Header="Deposit Funds" Background="#FF76422E" FontFamily="Corbel" Click="DepositFunds_Click"/>
+                <MenuItem Header="Withdraw Funds" Background="#FF76422E" FontFamily="Corbel" Click="WithdrawFunds_Click"/>
+                <MenuItem Header="Transfer Funds" Background="#FF76422E" FontFamily="Corbel" Click="TransferFunds_Click"/>
+                <MenuItem Header="View Transactions" Background="#FF76422E" FontFamily="Corbel" Click="ViewTransactions_Click" IsEnabled="False"/>
+            </MenuItem>
+        </Menu>
+        <Image HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="189" Source="/Image/dbs-logo.png" Margin="0,56,0,0" ></Image>
+        <Button Content="All Transactions" HorizontalAlignment="Left" Margin="65,167,0,0" VerticalAlignment="Top" Height="30" Width="120" FontFamily="Corbel" FontSize="14" Background="#FF76422E" Foreground="White" BorderBrush="#FF2582BF" Click="Button_Click"/>
+        <DataGrid x:Name="dgvTransactions" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,217,10,10" Background="#FFF4F4E6 "/>
+        <ComboBox x:Name="cboFirst" HorizontalAlignment="Left" Margin="473,167,0,0" VerticalAlignment="Top" Width="120" Height="30" FontFamily="Corbel" SelectionChanged="cboFirst_SelectionChanged">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FFF4F4E6" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblFilterBy" Content="Filter By:" HorizontalAlignment="Left" Margin="413,171,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtAccNum" HorizontalAlignment="Left" Margin="521,75,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+    </Grid>
+</Window>
